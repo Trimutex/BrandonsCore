@@ -1,5 +1,7 @@
 package com.brandon3055.brandonscore.items;
 
+import net.minecraft.world.item.Item.Properties;
+
 /**
  * Created by brandon3055 on 22/3/2016.
  * Used for simple items with sub types

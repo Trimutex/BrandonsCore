@@ -15,6 +15,8 @@ import net.minecraftforge.client.IItemRenderProperties;
 
 import java.util.Collections;
 
+import IItemRenderProperties;
+
 /**
  * Created by brandon3055 on 19/11/2022
  */
